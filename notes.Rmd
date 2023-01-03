@@ -1,0 +1,16 @@
+---
+title: "notes"
+output: html_document
+date: "2022-10-05"
+---
+
+# Encapsulation 封裝
+```{r}
+
+```
+
+```{r}
+
+```
+
+
